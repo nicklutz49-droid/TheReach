@@ -32,6 +32,7 @@ Between and around them: client states, and at the far fringes of human space, s
 | [`lore/04-war-ground.md`](lore/04-war-ground.md) | The ground war: doctrine on both sides, the tempo doctrine, mechs, artillery, logistics, the soldier's war; Halvard's World in depth; the UGF Bestiary of house armies; the mythic events; the cracks in the limited-war wall. |
 | [`lore/05-war-void.md`](lore/05-war-void.md) | The void war: the grammar of battle from shoal to press, both navies' ships and cultures, the errants and the Fetches, the Battle of Cerulyn Deep / the Emperor's Wager, the convoy war, life aboard. |
 | [`lore/06-clients-and-fringe.md`](lore/06-clients-and-fringe.md) | The client states of both stables and what the war looks like from inside them; how worlds change hands (the Kest Accession); the alien fringe nations; the machines and where the no-strong-AI line frays. |
+| [`lore/07-siege-breakers.md`](lore/07-siege-breakers.md) | The siege-breaker mechs: the four Patterns, the walkers and the gait-cradle, the long walk and the Knight-fall, how the UGF kills one, the Rampart land monitors, the five legends, the forbidden cults. |
 
 ---
 

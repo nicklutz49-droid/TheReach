@@ -52,7 +52,7 @@ The doctrine has a cost the Imperium does not discuss and a name the UGF does no
 
 The Imperium's answer to the prepared position: walking fortresses (Guild-built, Guild-maintained — another leash on the houses) that wade through kill zones soaking fire that would annihilate a battalion, cracking the line so the tide pours through the breach. Inefficient, monstrously expensive, effective.
 
-Each is unique, named, and old; houses lease them from the Guilds by campaign, at prices that have decided elections. Levies are forbidden to pray to them, which tells you what the levies do.
+Each is unique, named, and old; houses lease them from the Guilds by campaign, at prices that have decided elections. Levies are forbidden to pray to them, which tells you what the levies do. *(The siege-breakers have their own file, and their own church.)*
 
 ### Paladins in battle
 

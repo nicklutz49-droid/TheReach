@@ -10,3 +10,4 @@ Start with [The Reach — Worldbuilding Document](The%20Reach%20—%20Worldbuild
 4. **The war: the ground** — doctrine, Halvard's World, the Bestiary
 5. **The war: the void** — fleets, the press, the Emperor's Wager
 6. **Clients and the fringe** — the small powers, the aliens, the machines
+7. **The siege-breakers** — the mechs, their walkers, their legends, their cults
