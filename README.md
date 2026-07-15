@@ -11,3 +11,7 @@ Start with [The Reach — Worldbuilding Document](The%20Reach%20—%20Worldbuild
 5. **The war: the void** — fleets, the press, the Emperor's Wager
 6. **Clients and the fringe** — the small powers, the aliens, the machines
 7. **The siege-breakers** — the mechs, their walkers, their legends, their cults
+8. **The arsenal** — the guns, the tanks, the drones, and how both armies are built
+9. **The two knighthoods** — the Paladins and the errantry
+10. **The Vatborn** — the exterior mosaic of the setting's great mystery
+11. **The war chronology** — fifty-two years in six phases, twice named

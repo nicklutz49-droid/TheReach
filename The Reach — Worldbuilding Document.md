@@ -33,6 +33,10 @@ Between and around them: client states, and at the far fringes of human space, s
 | [`lore/05-war-void.md`](lore/05-war-void.md) | The void war: the grammar of battle from shoal to press, both navies' ships and cultures, the errants and the Fetches, the Battle of Cerulyn Deep / the Emperor's Wager, the convoy war, life aboard. |
 | [`lore/06-clients-and-fringe.md`](lore/06-clients-and-fringe.md) | The client states of both stables and what the war looks like from inside them; how worlds change hands (the Kest Accession); the alien fringe nations; the machines and where the no-strong-AI line frays. |
 | [`lore/07-siege-breakers.md`](lore/07-siege-breakers.md) | The siege-breaker mechs: the four Patterns, the walkers and the gait-cradle, the long walk and the Knight-fall, how the UGF kills one, the Rampart land monitors, the five legends, the forbidden cults. |
+| [`lore/08-arsenal.md`](lore/08-arsenal.md) | Vehicles, weaponry, and military organization: the kinetic split, the house-pattern patchwork vs UGF standardization, tanks, Guild artillery, air defense, drones, logistics, and both sides' tables of organization. |
+| [`lore/09-knighthoods.md`](lore/09-knighthoods.md) | The two knighthoods: Paladin selection and the Investiture, armor-as-relic, the errantry and its heraldry, the Withering of the Flower, and the twelve-house patchwork quietly refilling the lances. |
+| [`lore/10-vatborn.md`](lore/10-vatborn.md) | The Vatborn as exterior mosaic: decanting records, the three-name system, the legal patchwork, pour and grave, the songs, the POW paperwork, the batch chest, and the margin note "referent unclear." |
+| [`lore/11-chronology.md`](lore/11-chronology.md) | The 52-year war periodized: six phases with mirrored Union/Imperial names, every campaign slotted, the new-canon episodes (the Truce of Two Fevers, the Shared Shoal, the Ashen Signal), and the master table. |
 
 ---
 
@@ -69,6 +73,7 @@ Some questions in this setting are deliberately unresolved, and stay that way �
 - **What happened to the Fortieth Legion in the Greywater** — and why the Guilds sealed the survey.
 - **Where Auria Ferro went** after adjourning the government of united humanity.
 - **What's under Earth's veil.**
+- **What the Vatborn mean by *home*** — thirty years of interrogation margins reading, independently, "referent unclear."
 
 ---
 
